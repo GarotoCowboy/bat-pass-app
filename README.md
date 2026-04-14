@@ -47,6 +47,6 @@ Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/34407863?s=400&u=26234043579f0d416d4e5ca0ab5ffb211a7f5d2f&v=4" width="200"><br><sub>Pedro Henrique</sub>](https://github.com/felipeAguiarCode) |
+| [<img src="https://avatars.githubusercontent.com/u/34407863?s=400&u=26234043579f0d416d4e5ca0ab5ffb211a7f5d2f&v=4" width="200"><br><sub>Pedro Henrique</sub>](https://github.com/GarotoCowboy) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                             [Linkedin](https://www.linkedin.com/in/pedro-henrique-marques-rocha-dev/)                                             |
